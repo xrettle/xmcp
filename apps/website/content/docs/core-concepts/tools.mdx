@@ -37,11 +37,7 @@ export const metadata = {
 
 // Tool implementation
 export default async function greet({ name }: InferSchema<typeof schema>) {
-  const result = `Hello, ${name}!`;
-
-  return {
-    content: [{ type: "text", text: result }],
-  };
+  return `Hello, ${name}!`;
 }
 ```
 
@@ -293,9 +289,7 @@ export default async function previewElicitation(
     },
   });
 
-  return {
-    content: [{ type: "text", text: JSON.stringify(result, null, 2) }],
-  };
+  return JSON.stringify(result, null, 2);
 }
 ```
 
