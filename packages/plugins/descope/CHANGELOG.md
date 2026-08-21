@@ -1,5 +1,11 @@
 # @xmcp-dev/descope
 
+## 1.0.0
+
+### Patch Changes
+
+- xmcp@1.0.0
+
 ## 0.1.1
 
 ### Patch Changes

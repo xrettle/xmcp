@@ -1,5 +1,11 @@
 # @xmcp-dev/better-auth
 
+## 1.0.0
+
+### Patch Changes
+
+- xmcp@1.0.0
+
 ## 0.0.12
 
 ### Patch Changes
