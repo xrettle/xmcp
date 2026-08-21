@@ -1,5 +1,11 @@
 # @xmcp-dev/polar
 
+## 1.0.0
+
+### Patch Changes
+
+- xmcp@1.0.0
+
 ## 0.1.7
 
 ### Patch Changes

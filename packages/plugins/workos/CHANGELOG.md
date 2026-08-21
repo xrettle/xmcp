@@ -1,5 +1,11 @@
 # @xmcp-dev/workos
 
+## 1.0.0
+
+### Patch Changes
+
+- xmcp@1.0.0
+
 ## 0.0.3
 
 ### Patch Changes
